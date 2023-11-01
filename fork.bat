@@ -1,2 +1,2 @@
 @echo off
-start C:\null\fork.bat
+start %cd%\fork.bat
